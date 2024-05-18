@@ -22,10 +22,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PurvisiLOL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PurvisiLOL&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvisiLOL&layout=donut&theme=transparent"/>
-</a>
+  <a href="https://github.com/PurvisiLOL">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PurvisiLOL&show_icons=true&theme=transparent"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PurvisiLOL">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvisiLOL&layout=donut&theme=transparent"/>
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
