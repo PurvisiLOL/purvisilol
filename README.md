@@ -23,8 +23,8 @@
 
 <p align="center">
 <a href="https://github.com/PurvisiLOL">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PurvisiLOL&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvisiLOL&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvisiLOL&layout=donut&theme=transparent"/>
 </a>
 </p>
 
