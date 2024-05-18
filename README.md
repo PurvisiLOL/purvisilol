@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://github.com/PurvisiLOL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PurvisiLOL&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvisiLOL&layout=donut&theme=transparent"/>
 </a>
 </p>
@@ -31,6 +31,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://discord.gg/DbnFP2Qa54"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
-  <a href="https://www.zyntech.xyz/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://discord.gg/DbnFP2Qa54"><img src="https://img.shields.io/badge/-discord.com-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="https://www.zyntech.xyz/"><img src="https://img.shields.io/badge/-zyntech.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
